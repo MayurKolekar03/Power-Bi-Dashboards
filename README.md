@@ -1,0 +1,1 @@
+An interactive Power BI dashboard designed to track key business metrics and performance indicators. This project transforms raw data into clean, easy-to-read visuals to support data-driven decision-making.
